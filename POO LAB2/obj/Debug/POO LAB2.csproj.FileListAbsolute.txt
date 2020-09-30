@@ -1,0 +1,7 @@
+C:\Users\megatecnologia\AppData\Local\Temporary Projects\POO LAB2\bin\Debug\POO LAB2.exe.config
+C:\Users\megatecnologia\AppData\Local\Temporary Projects\POO LAB2\bin\Debug\POO LAB2.exe
+C:\Users\megatecnologia\AppData\Local\Temporary Projects\POO LAB2\bin\Debug\POO LAB2.pdb
+C:\Users\megatecnologia\AppData\Local\Temporary Projects\POO LAB2\obj\Debug\POO LAB2.csprojAssemblyReference.cache
+C:\Users\megatecnologia\AppData\Local\Temporary Projects\POO LAB2\obj\Debug\POO LAB2.csproj.CoreCompileInputs.cache
+C:\Users\megatecnologia\AppData\Local\Temporary Projects\POO LAB2\obj\Debug\POO LAB2.exe
+C:\Users\megatecnologia\AppData\Local\Temporary Projects\POO LAB2\obj\Debug\POO LAB2.pdb
